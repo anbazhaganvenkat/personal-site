@@ -103,30 +103,5 @@ export const skills = [
     title: 'Wireframing',
     compentency: 4,
     category: ['Design', 'Web Development'],
-  },
-  {
-    title: 'Keras',
-    compentency: 4,
-    category: ['Machine Learning', 'Python'],
-  },
-  {
-    title: 'Pandas',
-    compentency: 4,
-    category: ['Data Science', 'Python'],
-  },
-  {
-    title: 'Matplotib',
-    compentency: 4,
-    category: ['Data Science', 'Python'],
-  },
-  {
-    title: 'Scikit-Learn',
-    compentency: 3,
-    category: ['Data Science', 'Python'],
-  },
-  {
-    title: 'Pylint',
-    compentency: 4,
-    category: ['Python'],
-  },
+  }
 ];
